@@ -1,0 +1,20 @@
+Required configurations in the game:
+1. Resolution: 800 * 600
+2. Select Sol Janus and activate Dusk
+3. Enter key binding, switch to a new page, and bind keys in the following order (empty if not available):
+Q: Fountain W: Class Placement (cd should be in 1 minute) E: Reflection R: Solar Crest T: Origin
+A: Main attack S: Scope skills D: Scope skills F: Scope skills
+SHIFT： Rope Lift
+
+If the following buttons are placed: W E R S D F T， Change the corresponding variable to True in main.py (default is False)
+keybinding_w
+keybinding_e
+keybinding_r
+keybinding_s
+keybinding_d
+keybinding_f
+keybinding_t
+
+Optional:
+Threshold selection for placement: x_summon = 4, y_summon = 15
+Threshold selection for center point: x_mid = 4 ,y_mid = 10

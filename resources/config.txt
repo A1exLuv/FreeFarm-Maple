@@ -1,9 +1,0 @@
-放置阈值选择：x_summon,y_summon
-站刷阈值选择：x_mid,y_mid
-有职业放置：keybinding_w
-有蜘蛛：keybinding_e
-有密特拉：keybinding_r
-S键放了技能：keybinding_s
-D键放了技能：keybinding_d
-F键放了技能：keybinding_f
-T键放了技能：keybinding_t

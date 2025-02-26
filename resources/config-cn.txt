@@ -1,0 +1,20 @@
+游戏里必须要做的配置：
+1.分辨率:800*600
+2.选择六转通用技能，开启落雷
+3.进入按键绑定，切换到新的一页，按以下顺序绑定按键（没有就空着）：
+    Q:五转喷泉 W：职业放置（1分钟cd） E：蜘蛛 R：密特拉 T：起源
+    A:主攻 S：范围技能 D:范围技能 F:范围技能
+    SHIFT：五转绳索
+
+    如果放置了以下按键：WERSDFT，去main.py上方将对应的变量改为True（默认为False）
+    W键是否放技能：keybinding_w
+    E键是否放技能：keybinding_e
+    R键是否放技能：keybinding_r
+    S键是否放技能：keybinding_s
+    D键是否放技能：keybinding_d
+    F键是否放技能：keybinding_f
+    T键是否放技能：keybinding_t
+
+可选：
+放置阈值选择：x_summon = 4, y_summon = 15
+站刷阈值选择：x_mid = 4 ,y_mid = 10

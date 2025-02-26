@@ -16,12 +16,12 @@ x_mid,y_mid = 4,10
 
 # 按键绑定
 keybinding_w = False
-keybinding_e = True
+keybinding_e = False
 keybinding_r = False
 keybinding_s = True
 keybinding_d = True
 keybinding_f = False
-keybinding_t = True
+keybinding_t = False
 
 
 button_location_q = (592, 484)  # q按键位置 (x, y) 0
