@@ -15,7 +15,7 @@ The bot can solve static runes
 
 2.Download and install Python3 (better Python 3.10)
 
-3.Download and unzip the latest release
+3.Download and unzip the code
 
 4.Open maplestory.exe and find a map to farm
 
