@@ -8,9 +8,6 @@ Using Dusk enables farming much more efficient than before.
 The bot can solve static runes
 
 # Demo
-![本地GIF](./assests/demo.gif)
-
-in ./assests
 
 
 # Setup
